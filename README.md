@@ -1,6 +1,6 @@
-# AI Co‑Pilot for Surgeons — **Polished Round‑1 POC**
+# AI Co‑Pilot for Surgeons — **Hack4Health Round‑1 POC**
 
-This upgraded project is **judge‑ready**:
+This project includes:
 - Two **sample videos** (choose in sidebar).
 - **Split‑screen**: Original vs AI overlay.
 - **Smart Highlighter** and **Predictive Co‑Pilot** modes.
